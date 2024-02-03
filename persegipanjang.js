@@ -16,3 +16,4 @@ function TentukanLuasDanKelilingPersegiPanjang(p, l) {
   }
   
   TentukanLuasDanKelilingPersegiPanjang(5, 7);
+  TentukanLuasDanKelilingPersegiPanjang(2, 3);
